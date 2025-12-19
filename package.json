@@ -1,0 +1,13 @@
+{
+  "name": "demo-chatbot",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"uvicorn backend:app --reload --port 8000\" \"npm --prefix frontend run dev\""
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.23",
+    "concurrently": "^9.0.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}

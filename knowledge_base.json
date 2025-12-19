@@ -1,0 +1,303 @@
+[
+  {
+    "id": "doc-1",
+    "text": "To reset your account password, go to the login page and click 'Forgot password'. Follow the instructions in the email you receive.",
+    "category": "account",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-2",
+    "text": "You can update your billing information from the 'Billing' section in your account settings. Add new payment methods or update existing ones.",
+    "category": "billing",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-3",
+    "text": "Our service supports major credit cards and digital wallets. Transactions usually process instantly but sometimes take a few minutes.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-4",
+    "text": "You can contact support using the in-app chat or by emailing support@example.com. Response time is typically one business day.",
+    "category": "support",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-5",
+    "text": "If you see an unfamiliar charge, check if a family member used your card. If not, contact support to investigate potential fraud.",
+    "category": "disputes",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-6",
+    "text": "Enable two-factor authentication from the Security section to increase account protection.",
+    "category": "security",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-7",
+    "text": "Cardholders can manage their saved cards under 'Payment Methods'. You can remove expired cards here.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-8",
+    "text": "For subscription services, charges may appear as recurring transactions. You can cancel subscriptions from your settings page.",
+    "category": "subscriptions",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-9",
+    "text": "Refunds usually take 5–7 business days to appear in your account depending on your bank.",
+    "category": "refunds",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-10",
+    "text": "To update personal profile details, navigate to the 'Profile' tab and edit your information.",
+    "category": "account",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-11",
+    "text": "Some merchants require additional verification for high-value transactions. You may receive a verification code.",
+    "category": "security",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-12",
+    "text": "If your card is declined, verify your available balance and card expiration date.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-13",
+    "text": "Digital wallet payments may require biometric authentication such as FaceID or fingerprint.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-14",
+    "text": "Recurring payments can be paused or canceled in the 'Subscriptions' tab under account settings.",
+    "category": "subscriptions",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-15",
+    "text": "You can download receipts for all previous transactions under the 'History' section.",
+    "category": "reporting",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-16",
+    "text": "If a payment is pending, it may take up to 24 hours to clear depending on the merchant.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-17",
+    "text": "To prevent unauthorized access, avoid sharing your login credentials with anyone.",
+    "category": "security",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-18",
+    "text": "For travel abroad, notify your bank in advance to avoid unexpected card declines.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-19",
+    "text": "If your card is lost or stolen, immediately freeze it in the 'Security' section.",
+    "category": "security",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-20",
+    "text": "Cardholders can export their full transaction history as CSV from the 'Reports' tab.",
+    "category": "reporting",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-21",
+    "text": "If your email is not receiving verification codes, check your spam folder and whitelist our domain.",
+    "category": "security",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-22",
+    "text": "Temporary authorizations may appear as pending charges and disappear within a few days.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-23",
+    "text": "Once a refund is issued by the merchant, we immediately forward it to your bank for processing.",
+    "category": "refunds",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-24",
+    "text": "If your app is not loading, try clearing cache or reinstalling the application.",
+    "category": "technical",
+    "client_type": "cardholder"
+  },
+  {
+    "id": "doc-25",
+    "text": "Some merchants may charge a small verification amount, which will be refunded automatically.",
+    "category": "payments",
+    "client_type": "cardholder"
+  },
+
+  {
+    "id": "doc-26",
+    "text": "To onboard as a merchant, provide your business name, legal entity type, tax ID, and a payout bank account. Applications are reviewed within two business days.",
+    "category": "onboarding",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-27",
+    "text": "Payouts are sent to the bank account configured in the 'Payouts' section. Settlement times depend on your region and risk profile.",
+    "category": "transactions",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-28",
+    "text": "Merchants can view detailed transaction reports under 'Reports'. Filters include date, currency, and payment method.",
+    "category": "reporting",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-29",
+    "text": "Chargebacks can be managed from the 'Disputes' page. Merchants may upload receipts, delivery confirmations, or refund proof.",
+    "category": "disputes",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-30",
+    "text": "To reduce fraud, merchants can enable velocity rules, country restrictions, and 3D Secure enforcement.",
+    "category": "risk",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-31",
+    "text": "The payment API requires amount, currency, and a unique order ID for each transaction request.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-32",
+    "text": "Test credentials for the sandbox environment are available in the 'Developers' section.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-33",
+    "text": "High-risk merchants may receive delayed payouts until identity verification is completed.",
+    "category": "risk",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-34",
+    "text": "Merchants can instantly refund customers from the 'Transactions' tab by selecting 'Issue Refund'.",
+    "category": "refunds",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-35",
+    "text": "If settlement fails, check your payout bank account details for accuracy.",
+    "category": "transactions",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-36",
+    "text": "Batch payouts allow merchants to group many smaller transactions into a single daily transfer.",
+    "category": "transactions",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-37",
+    "text": "Webhook notifications can be enabled to receive updates on transaction status changes.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-38",
+    "text": "Dispute response deadlines vary by card network but typically range from 7 to 21 days.",
+    "category": "disputes",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-39",
+    "text": "Merchants can download monthly statements in PDF format from the dashboard.",
+    "category": "reporting",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-40",
+    "text": "3D Secure authentication reduces fraud risk by shifting liability to the card issuer.",
+    "category": "risk",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-41",
+    "text": "API rate limits depend on plan tier. Exceeding your quota results in temporary throttling.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-42",
+    "text": "To comply with AML regulations, merchants may be required to submit business verification documents.",
+    "category": "onboarding",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-43",
+    "text": "Settlement currency can be configured in the 'Payout Settings' page.",
+    "category": "transactions",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-44",
+    "text": "Anomalous transaction patterns may temporarily trigger risk reviews.",
+    "category": "risk",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-45",
+    "text": "Failed webhook deliveries will be retried multiple times with exponential backoff.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-46",
+    "text": "Merchants can reconcile transactions by exporting detailed CSV reports.",
+    "category": "reporting",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-47",
+    "text": "Full refunds return the entire transaction amount, while partial refunds must specify an amount.",
+    "category": "refunds",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-48",
+    "text": "If a customer claims fraud, merchants should provide proof of delivery and communication logs.",
+    "category": "disputes",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-49",
+    "text": "API errors include descriptive codes. Refer to the 'Error Reference' section for troubleshooting guidance.",
+    "category": "integration",
+    "client_type": "merchant"
+  },
+  {
+    "id": "doc-50",
+    "text": "Merchants can configure custom risk rules such as IP filtering, velocity checks, and device fingerprinting.",
+    "category": "risk",
+    "client_type": "merchant"
+  }
+]

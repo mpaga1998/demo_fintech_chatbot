@@ -1,0 +1,20 @@
+# Core
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.1.0
+sentence-transformers==2.7.0
+
+# Vector DB
+chromadb>=0.5.0
+
+# Hugging Face integration
+huggingface_hub>=0.24.0
+
+# API server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Typing (Python 3.10+ anyway)
+typing-extensions>=4.8.0
+python-dotenv
