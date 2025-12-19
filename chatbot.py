@@ -89,7 +89,7 @@ Do NOT invent information.
 """
 
 
-# ====================== Vector store attach ====================== #
+# ====================== Vector store attach ====================== #a
 
 def attach_vector_store() -> Chroma:
     """
